@@ -8,4 +8,4 @@ An implementation of AJAX with external API(WEB API).
 
 ## Live Implementation
 
-Enter the number of jokes and click Get Jokes. And enjoy !!
+Download the zip and enter the number of jokes and click Get Jokes. And enjoy !!
